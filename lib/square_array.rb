@@ -1,11 +1,1 @@
-def square_array(array)
-  
-  output = []
-  counter = 0
-  
-  while array[counter] do
-    output << array[counter] ** 2
-    counter++
-  end
-  output
-end
+
